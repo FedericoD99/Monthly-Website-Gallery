@@ -75,6 +75,7 @@ body{
     transition-duration: 2s;
     border-top-left-radius: 0%;
     border-top-right-radius: 0%;
+    border-width: 3px;
   }
   .tap {
     border-color: whitesmoke;
@@ -85,7 +86,7 @@ body{
     border-color: #000428;
     border-radius: 25%;
     transition-duration: 2s;
-   
+   border-width: 3px;
     
   }
   
