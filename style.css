@@ -55,6 +55,38 @@ body{
   }
   .cell {cursor: cell;}
 
-  
+  .color{
+    background-color: lightblue;
+  }
+  .font{
+    font-family: 'Aboreto';font-size: 22px;
+  }
+  .card-title{
+    font-family: 'Annie Use Your Telescope';font-size: 30px;
+  }
+  .touch {
+    border-color: white;
+    border-style:dotted;
+    transition-duration: 2s;
+  }
+  .touch:hover {
+    border-color: #000428;
+    border-radius: 25%;
+    transition-duration: 2s;
+    border-top-left-radius: 0%;
+    border-top-right-radius: 0%;
+  }
+  .tap {
+    border-color: whitesmoke;
+    border-style:dotted;
+    transition-duration: 2s;
+  }
+  .tap:hover {
+    border-color: #000428;
+    border-radius: 25%;
+    transition-duration: 2s;
+   
+    
+  }
   
   
